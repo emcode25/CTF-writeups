@@ -1,4 +1,4 @@
-# Float On (AKA: black magic!)
+# Float On
 ## Challenge Description:
 Category: Misc.
 
